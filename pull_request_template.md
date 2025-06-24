@@ -1,6 +1,6 @@
 #### Problem Description
 
-_Describe comprehensively what issue this PR is targeting and why it needs fixing._
+_Describe comprehensively what issue or enhancement this PR is targeting and explain why it is necessary to address or implement it._
 
 ---
 #### Solution
