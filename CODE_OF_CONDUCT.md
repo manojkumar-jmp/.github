@@ -26,7 +26,7 @@ Community leaders are responsible for clarifying standards of acceptable behavio
 
 ## Enforcement
 
-Instances of abusive or unacceptable behavior may be reported to the project maintainer at: **[manoj.jmp@gmail.com]**.
+Instances of abusive or unacceptable behavior may be reported to the project maintainer at: **edu.shribha@gmail.com**.
 
 All complaints will be reviewed and investigated promptly and fairly.
 
